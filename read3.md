@@ -58,3 +58,20 @@ from buffalo milk)</dd>
 * You can also control the borders, margin and padding for each box with CSS.
 * It is possible to hide elements using the display and visibility properties.
 * Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
+
+# Decisions and Loops is JS
+## loops
+* If statements - If a condition is true, then run the code in that block.
+* If...Else statements - If a condition is true, then run the code in that block. Otherwise, run the code in the else block.
+* For loops - Run the code in this block based on a set number of iteration. This is known.
+* While loops - Run the code in this block while a condition is true. The number of iterations is unknown.
+## comparison Operators
+A comparison operator compares its operands and returns a logical value based on whether the comparison is true.
+1. (==) - equal to - Compares two items to see if they are equal
+2. (!=) - not equal to - Compares two items to see if they are not equal
+3. (>) - greater than - Compares the first item to see if it is greater than the second item
+4. (<) - less than - Compares the first item to see if it is less than the second item
+5. (>=) - greater than or equal to - Compares the first item to see if it is greater than or equal to the second item
+6. (<=) - less than or equal to - Compares the first item to see if it is less than or equal to the second item
+
+
