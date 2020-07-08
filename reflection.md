@@ -11,4 +11,8 @@
 3. array
 4. counter using
 5. the false values and true truth values
-6. 
+## refliction 3
+1. functions use
+2. Pair Programming
+3. reading others cades
+
