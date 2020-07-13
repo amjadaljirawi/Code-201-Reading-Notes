@@ -16,3 +16,12 @@
 2. Pair Programming
 3. reading others cades
 
+## refliction 4
+
+
+## refliction 5
+1. using branches insid branches
+2. making tables 
+3. using single constructor functions
+
+
