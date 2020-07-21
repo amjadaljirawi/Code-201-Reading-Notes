@@ -38,3 +38,9 @@
 1. working in pears
 2.layouts
 3.redo all toyur work 
+
+## refliction 9
+* Add a chart (Docs for the HTML <canvas> Element & Chart.js)
+
+## refliction 10
+* Add local storage 
