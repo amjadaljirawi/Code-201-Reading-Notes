@@ -19,6 +19,6 @@
 13 | [read11](https://amjadaljirawi.github.io/Code-201-Reading-Notes/read11)
 14 | [read12](https://amjadaljirawi.github.io/Code-201-Reading-Notes/read12)
 15 | [read13](https://amjadaljirawi.github.io/Code-201-Reading-Notes/read13)
-16 | [read14](https://amjadaljirawi.github.io/Code-201-Reading-Notes/read14)
-17 | [read15](https://amjadaljirawi.github.io/Code-201-Reading-Notes/read15)
+16 | [read14a](https://amjadaljirawi.github.io/Code-201-Reading-Notes/read14a)
+17 | [read14b](https://amjadaljirawi.github.io/Code-201-Reading-Notes/read14b)
 
