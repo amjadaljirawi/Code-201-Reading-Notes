@@ -44,3 +44,8 @@
 
 ## refliction 10
 * Add local storage 
+
+## refliction 11
+working with teams and resolving problems and confltections ...
+listning to the experienced devlopers and learnong from them..
+
