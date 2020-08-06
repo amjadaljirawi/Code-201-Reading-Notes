@@ -17,6 +17,15 @@
 3. reading others cades
 
 ## refliction 4
+we learned how to use html links that used for:
+1. Linking to Other Sites.
+2. Linking to Other Pages on the Same Site.
+3.Email Links.
+**and the secound thing is the layout**
+css elements like:
+relative, absolute, and fixed positioning.
+* You can include multiple CSS files in one page.
+
 
 
 ## refliction 5
@@ -32,7 +41,7 @@
 
 ## refliction 7
 1. layouts
-2.
+
 
 ## refliction 8
 1. working in pears
@@ -40,12 +49,30 @@
 3.redo all toyur work 
 
 ## refliction 9
-* Add a chart (Docs for the HTML <canvas> Element & Chart.js)
+we learned how to use forms, forms also allow users to perform other functions online.like regestering and adding new values to use in your cading data
+and to use the events for  indicating when something has happened 
 
 ## refliction 10
-* Add local storage 
+* Debugging and Error Handling 
+we learned hot to debug out js file to determine the errors 
 
 ## refliction 11
+we learned how to add Audio and Video in HTML
+and we started working on a new project " busmall"
+
+
+## refliction 12
+* Add a chart (Docs for the HTML <canvas> Element & Chart.js)
+  
+ 
+## refliction 13
+ using and  Adding local storage
+ we adeed a local storage for our bussmall project and we used it to make the chart showing the presssed pictuers
+## refliction 14
+we learned hot to make CSS Transforms, Transitions, and Animations
+and we  Created an Order Form and a Shopping Cart for our busmall project 
+
+## refliction 15
+
 working with teams and resolving problems and confltections ...
 listning to the experienced devlopers and learnong from them..
-
